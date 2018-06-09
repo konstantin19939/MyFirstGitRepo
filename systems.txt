@@ -1,3 +1,4 @@
 mac,Windows,Linux
 Kindows
 Iphone X
+Lampa
