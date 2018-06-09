@@ -1,0 +1,3 @@
+file2.txt
+
+This is my first line of doc!
